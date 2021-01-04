@@ -1,0 +1,29 @@
+body {
+    font-family: monospace;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+table {
+    text-align: left;
+}
+th,td {
+    padding: 10px;
+}
+th {
+    background-color: brown;
+    color: white;
+}
+td {
+    background-color: coral;
+    color: white;
+}
